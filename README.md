@@ -1,5 +1,5 @@
 
-<h1> Repositório criado para o compartilhamento das Atividades</h1>
+<h1> Repositório criado para o compartilhamento de Atividades e Progresso</h1>
 <br>
 
  ![SPREAD_Bootcamp-removebg-preview](https://user-images.githubusercontent.com/74883711/173962009-f040888b-e0c9-4bc1-bcd9-975d8bedee86.png)
@@ -17,6 +17,13 @@
 <div align="center">
 <h2> Módulos do Curso </h2>
 </div>
+
+<ol>
+ <h3>Módulo I</h3>
+ <br>
+ <li>Lógica de Programação Essencial</li>
+ <li>Introdução ao Git e Github</li>
+ <li>Criando seu primeiro repositório para compartilhar seu progresso</li>
 
 
 
