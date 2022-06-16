@@ -24,6 +24,14 @@
  <li>Lógica de Programação Essencial</li>
  <li>Introdução ao Git e Github</li>
  <li>Criando seu primeiro repositório para compartilhar seu progresso</li>
-
+ <br>
+ <h3>Módulo II</h3>
+ <li>Primeiros passos para desenvolvimento web</li>
+ <li>Introdução a criação de WebSites com HTML5 e CSS3</li>
+ <li>Posicionando Elementos com Flexbox em CSS3</li>
+ <ul>
+  <span>Desafio de Projeto</span>
+  <li>Recriando a página inicial do Instagran</li>
+ </ul>
 
 
