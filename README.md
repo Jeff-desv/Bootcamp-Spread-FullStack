@@ -53,6 +53,16 @@
  <li>Trabalhando com Módulos em Javascript</li>
  <li>Manipulando a D.O.M com Javascript</li>
  <li>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</li>
+<ul>
+ <span><strong>Desafio de Código</strong><span>
+  <li>Desafios Iniciais JS - Spread FullStack</li>
+  <br>
+  <span><strong>Desafio de Projeto</strong><span>
+  <li>
+   Aprenda a criar um sistema de estacionamento <br>
+   usando TypeScript.
+  </li>
+</ul>
 </ol>
 
 
