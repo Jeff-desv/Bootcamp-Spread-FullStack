@@ -19,7 +19,7 @@
 </div>
 
 <ol>
- <h3>Módulo I</h3>
+ <h3>Módulo I - Introdução</h3>
  <hr>
  <li>Lógica de Programação Essencial</li>
  <li>Introdução ao Git e Github</li>
@@ -27,7 +27,7 @@
 </ol>
  <br>
 <ol>
- <h3>Módulo II</h3>
+ <h3>Módulo II - HTML5 e CSS3</h3>
  <hr>
  <li>Primeiros passos para desenvolvimento web</li>
  <li>Introdução a criação de WebSites com HTML5 e CSS3</li>
@@ -39,7 +39,7 @@
  </ol>
  <br>
  <ol>
- <h3>Módulo III</h3>
+ <h3>Módulo III - JavaScript</h3>
  <hr>
  <li>Introdução ao Javascript</li>
  <li>Sintaxe e Operadores</li>
