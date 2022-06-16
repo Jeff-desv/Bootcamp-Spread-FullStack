@@ -40,9 +40,18 @@
  <ol>
  <h3>Módulo III</h3>
  <br>
- <li>Lógica de Programação Essencial</li>
- <li>Introdução ao Git e Github</li>
- <li>Criando seu primeiro repositório para compartilhar seu progresso</li>
+ <li>Introdução ao Javascript</li>
+ <li>Sintaxe e Operadores</li>
+ <li>Variáveis e Tipos</li>
+ <li>Funções</li>
+ <li>Coleções</li>
+ <li>Map, Filter e Reduce</li>
+ <li>Debbuging e Error Handling</li>
+ <li>Javascript Assíncrono</li>
+ <li>Orientação a Objetos</li>
+ <li>Trabalhando com Módulos em Javascript</li>
+ <li>Manipulando a D.O.M com Javascript</li>
+ <li>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</li>
 </ol>
 
 
