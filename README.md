@@ -80,7 +80,43 @@
  <span><strong>Desafio de Código</strong></span>
  <li>Desafios Intermediários JS - Spread FullStack</li>
 </ul>
+<br>
  <li>Práticas avançadas em projetos com ReactJs</li>
+ <li>Introdução ao Redux com ReactJS</li>
+<ul>
+ <span><strong>Desafio de Projeto</strong></span>
+ <li>Criando um Front-End totalmente componentizado na prática com ReactJS</li>
+</ul>
+</ol>
+<br>
+<ol>
+ <h3>Módulo V - Banco de Dados</h3>
+ <hr>
+ <li>MySql - Trabalhando com as suas primeiras tabelas</li>
+ <li>MySql - Consultas com Join</li>
+</ol>
+<br>
+<ol>
+ <h3>Módulo VI - Node JS</h3>
+ <hr>
+ <li>Introdção a APIs e métodos HTTP</li>
+ <li>Desenvolvimento back-end com Node.Js</li>
+ <li>Introdção ao Node.Js com Express</li>
+ <br>
+<ul>
+ <span><strong>Desafio de Código</strong></span>
+ <li>Desafios Finais JS - Spread FullStack</li>
+</ul>
+<br>
+ <li>Explorando o Estilo Arquitetural REST com Node.JS</li>
+ <li>Node.JS com Banco de Dados Relacionais <strong>SQL</strong></li>
+ <br>
+ <ul>
+ <span><strong>Desafio de Projeto</strong></span>
+ <li>Construindo um Encurtador de URL</li>
+</ul>
+</ol>
+<br>
   
   
 
