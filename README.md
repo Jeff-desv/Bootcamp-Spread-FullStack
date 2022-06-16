@@ -7,7 +7,13 @@
 <h2> Sobre o Bootcamp </h2>
 <br>
 <p>
- O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto e back-end.
+ O Bootcamp Spread Fullstack Developer é um programa gratuito feito pela Digital Innovation em parceria com a Spread, para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software, com uma base sólida em tecnologias essenciais em front-end quanto e back-end.
 </p>
+<br>
+
+<div align-itens="center">
+<h2> Módulos do Curso </h2>
+</div>
+
 
 
