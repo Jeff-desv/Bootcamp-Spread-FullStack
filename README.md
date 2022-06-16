@@ -53,6 +53,7 @@
  <li>Trabalhando com Módulos em Javascript</li>
  <li>Manipulando a D.O.M com Javascript</li>
  <li>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</li>
+ <br>
 <ul>
  <span><strong>Desafio de Código</strong><span>
   <li>Desafios Iniciais JS - Spread FullStack</li>
@@ -64,5 +65,22 @@
   </li>
 </ul>
 </ol>
-
+<br>
+<ol>
+ <h3>Módulo IV - React JS</h3>
+ <hr>
+ <li>Introdução ao ReactJS</li>
+ <li>Introdução ao React Hooks</li>
+ <li>
+   Trabalhando com States & Effects no ReactJS
+ </li>
+ <li>Desenvolvimento de Aplicações para Internet com ReactJS</li>
+<br>
+<ul>
+ <span><strong>Desafio de Código</strong></span>
+ <li>Desafios Intermediários JS - Spread FullStack</li>
+</ul>
+ <li>Práticas avançadas em projetos com ReactJs</li>
+  
+  
 
