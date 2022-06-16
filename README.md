@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<div align-itens="center">
+<div align="center">
 <h2> Módulos do Curso </h2>
 </div>
 
