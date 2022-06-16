@@ -2,7 +2,8 @@
 <h1> Repositório criado para o compartilhamento de Atividades e Progresso</h1>
 <br>
 
- ![SPREAD_Bootcamp-removebg-preview](https://user-images.githubusercontent.com/74883711/173962009-f040888b-e0c9-4bc1-bcd9-975d8bedee86.png)
+
+![SPREAD_Bootcamp-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/74883711/173970142-5a3b34c2-e993-4acc-9953-ad4281a432e2.png)
 <br>
 
 <div align="center">
