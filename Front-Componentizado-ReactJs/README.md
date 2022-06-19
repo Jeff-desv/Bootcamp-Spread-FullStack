@@ -31,6 +31,17 @@ Your app is ready to be deployed!
 
 <br>
 
-<h1 text-align=center> Sobre o Projeto </h1>
+<h1> Sobre o Projeto </h1>
+
+<p>
+  Esse projeto foi desenvolvido durante o Bootcamp da Spread em parceria com a Digital Innovation One, <br>
+  e consistia em criar uma Aplicação Front-End utilizando o React Js com Styled Components e Axios, essa aplicação <br>
+  teria que ser divididas em alguns components para ser de fácil manutenção e entendimento de código.
+</p>
+
+<p>
+  A utilização do Axios seria para consumir uma API, mais precisamente a API do GitHub, a idéia era buscar um username de usuário <br>
+  e renderizar as informações de perfil no nosso Front-End.
+</p>
 
 
