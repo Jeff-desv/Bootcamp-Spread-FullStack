@@ -10,6 +10,8 @@
 
 <h1> Sobre o Projeto</h1>
 <br>
+<p>
+    Construir um Encurtador de URL(link), utilizando Typescript, Node Js, Express e Mongo DB.
 <ol>
     <li>OBJETIVO</li>
 <ul>
